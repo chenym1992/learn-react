@@ -11,3 +11,4 @@
 - [chapters05-组件 & Props](./chapters/05-components-and-props/readme.md)
 - [chapters06-State & 生命周期](./chapters/06-state-and-lifecycle/readme.md)
 - [chapters07-事件处理](./chapters/07-handling-events/readme.md)
+- [chapters08-条件渲染](./chapters/08-conditional-rendering/readme.md)
