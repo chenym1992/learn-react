@@ -9,4 +9,4 @@
 - [chapters03-JSX 简介](./chapters/03-introducing-jsx/readme.md)
 - [chapters04-元素渲染](./chapters/04-rendering-elements/readme.md)
 - [chapters05-组件 & Props](./chapters/05-components-and-props/readme.md)
-- [chapters06-# State & 生命周期](./chapters/06-state-and-lifecycle/readme.md)
+- [chapters06-State & 生命周期](./chapters/06-state-and-lifecycle/readme.md)

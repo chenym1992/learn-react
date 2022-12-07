@@ -1,6 +1,7 @@
 # State & 生命周期
 
-https://zh-hans.reactjs.org/docs/state-and-lifecycle.html
+[中文](https://zh-hans.reactjs.org/docs/state-and-lifecycle.html)
+[english](https://reactjs.org/docs/state-and-lifecycle.html)
 
 ## State 的更新可能是异步的
 
