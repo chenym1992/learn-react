@@ -10,3 +10,4 @@
 - [chapters04-元素渲染](./chapters/04-rendering-elements/readme.md)
 - [chapters05-组件 & Props](./chapters/05-components-and-props/readme.md)
 - [chapters06-State & 生命周期](./chapters/06-state-and-lifecycle/readme.md)
+- [chapters07-事件处理](./chapters/07-handling-events/readme.md)
