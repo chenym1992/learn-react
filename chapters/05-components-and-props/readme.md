@@ -1,6 +1,6 @@
 # 组件 & Props
 
-[中文](https://zh-hans.reactjs.org/docs/components-and-props.html)  
+[中文](https://zh-hans.reactjs.org/docs/components-and-props.html) 
 [english](https://reactjs.org/docs/components-and-props.html)
 
 ## 注意点

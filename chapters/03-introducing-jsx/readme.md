@@ -1,6 +1,6 @@
 # JSX 简介
 
-[中文](https://zh-hans.reactjs.org/docs/introducing-jsx.html)  
+[中文](https://zh-hans.reactjs.org/docs/introducing-jsx.html)
 [english](https://reactjs.org/docs/introducing-jsx.html)
 
 ## JSX，是一个 JavaScript 的语法扩展
