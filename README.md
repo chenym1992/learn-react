@@ -15,3 +15,4 @@
 - [chapters09-列表 & Key](./chapters/09-lists-and-keys/readme.md)
 - [chapters10-表单](./chapters/10-forms/readme.md)
 - [chapters11-状态提升](./chapters/11-lifting-state-up/readme.md)
+- [chapters12-组合 vs 继承](./chapters/12-composition-vs-inheritance/readme.md)
