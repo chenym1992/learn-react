@@ -16,3 +16,4 @@
 - [chapters10-表单](./chapters/10-forms/readme.md)
 - [chapters11-状态提升](./chapters/11-lifting-state-up/readme.md)
 - [chapters12-组合 vs 继承](./chapters/12-composition-vs-inheritance/readme.md)
+- [chapters13-React哲学](./chapters/13-thinking-in-react/readme.md)
